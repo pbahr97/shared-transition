@@ -1,0 +1,12 @@
+{
+  "name": "shared-transition",
+  "displayName": "shared-transition",
+  "expo": {
+    "name": "shared-transition",
+    "slug": "shared-transition",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
